@@ -1,1 +1,1 @@
-# BrandStar-Studio
+# BS-Studio
